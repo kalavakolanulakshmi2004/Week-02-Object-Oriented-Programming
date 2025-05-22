@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-#Week 2: Object-Oriented Programmin (OOP) in Java 
-Last updated: 2025-04-02
-=======
 # Week 2: Object-Oriented Programming (OOP) in Java
 This week focused on understanding Object-Oriented Programming (OOP) principles and how Java implements them using classes, objects, inheritance, polymorphism, and abstraction.\
 Table of Contents\
@@ -45,4 +41,3 @@ Topics Covered
   Interfaces vs. Abstract Classes\
   Implementing interfaces and abstract methods\
   Runtime polymorphism using method overriding\
->>>>>>> a3d588537892654dd1af80245d8da35868e685ba
